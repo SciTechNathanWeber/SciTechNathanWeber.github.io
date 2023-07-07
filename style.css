@@ -10,3 +10,8 @@ div {
   width:25% */
   text-align: center;
 }
+
+button {
+  background-color: red;
+  box-shadow: 7.5px 7.5px
+}
